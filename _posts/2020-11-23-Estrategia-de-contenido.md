@@ -3,13 +3,13 @@ title: "Estrategia de contenido"
 date: 2020-11-23
 ---
 
-### ¿Que es un Site Maps?
+## ¿Que es un Site Maps?
 
-## Los site maps se utilizan para representar la jerarquia de un sitio web.
+# Los site maps se utilizan para representar la jerarquia de un sitio web.
 
 ![Explicación de estrategia de contenido: Site maps](/img/Site-maps.png)
 
-### La anatomia de un Site Map costa de tres partes.
+## La anatomia de un Site Map costa de tres partes.
 
 # Layer 1, Layer 2, Layer 3 
 
