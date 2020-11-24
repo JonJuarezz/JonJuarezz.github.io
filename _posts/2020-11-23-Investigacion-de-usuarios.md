@@ -3,9 +3,9 @@ title: "Investigación de usuarios"
 date: 2020-11-23
 ---
 
-# Los equipos ágiles
+## Los equipos ágiles
 
-## ¿Qué son los equipos ágiles?
+# ¿Qué son los equipos ágiles?
 
 ![Explicación de estrategia de contenido: Site maps](/img/agiles(2).png)
 

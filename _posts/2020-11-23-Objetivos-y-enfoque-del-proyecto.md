@@ -3,7 +3,7 @@ title: "Objetivos y enfoque del proyecto"
 date: 2020-11-23
 ---
 
-# ¿Qué es learn UX Canvas?
+## ¿Qué es learn UX Canvas?
 
 Canvas es una herramienta que permite recoger toda la información
 relevante sobre un tema en un solo lugar para guiar el proceso de desarrollo
