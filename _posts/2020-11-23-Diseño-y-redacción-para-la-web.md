@@ -3,7 +3,9 @@ title: "Diseño y redacción para la web"
 date: 2020-11-23
 ---
 
-## Introducción
+## El diseño y nuevos tipos de comunicación
+
+# Introducción
 
 La web constituye hoy en día una herramienta imprescindible para la comunicación entre la Administración y la ciudadanía. Por sus características, se ha convertido en un entorno adecuado a la hora de desarrollar una comunicación clara y
 sencilla; de hecho, las peculiaridades de las nuevas tecnologías condicionan totalmente las características de los contenidos en el entorno digital.

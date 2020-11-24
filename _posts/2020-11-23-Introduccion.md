@@ -3,7 +3,7 @@ title: "Introducción"
 date: 2020-11-23
 ---
 
-# La experinecia UX
+## La experinecia UX
 
 El campo de UX se ocupa de estudiar, diseñar y evaluar las experiencias que las personas tienen a través de
 el uso de (o encuentro con) un sistema. Este uso tiene lugar en un contexto específico, que tiene un impacto
