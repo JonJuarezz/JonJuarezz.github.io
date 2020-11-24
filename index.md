@@ -1,2 +1,2 @@
 
-me alegro de que estés aquí. Pienso hablar sobre paginas web.
+En mi portafolio encontraras los apuntes relativos a las distintas lecturas de la asginatura de Proyectos para la Web.
